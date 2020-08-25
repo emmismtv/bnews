@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "Alain Vera Cruz",
+        "puesto": "Sistemas",
+        "correo": "alain.vera@balam.edu.mx",
+        "foto": "https://lh3.googleusercontent.com/a-/AOh14Gg57Ft3dv1H_58ZEKPIQ06ZultOgz6UeN4cFGjj=s80-p-k-no"
+    },
+    {
+        "nombre": "Carolina Lombardini",
+        "puesto": "Sistemas Primaria",
+        "correo": "soporte@balam.edu.mx",
+        "foto": "https://lh3.googleusercontent.com/a-/AOh14GhB2JhLG_8cF7_H0bdiuIxLIf2I3DZm7FnRRM0=s80-p-k-no"
+    },
+    {
+        "nombre": "Samuel Ignacio Huchin Bacab",
+        "puesto": "Sistemas Secundaria",
+        "correo": "soporte1@balam.edu.mx",
+        "foto": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/V8BNOaftJmYv9F5SjjpNrtmOpJVfKqYBgCLcDEAEiGQoBUxD___________8BGKjbxPr______wE/s80-p-k-no/photo.jpg"
+    },
+    {
+        "nombre": "Veronica García Plata",
+        "puesto": "Caja",
+        "correo": "missvero@balam.edu.mx",
+        "foto": "https://lh3.googleusercontent.com/a-/AOh14GjOYkfk2Aqjb-RkKQ2Kct_6aTmp0tJVG0WroojEAg=s80-p-k-no"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "imagenhorario": "https://aprendeencasa.sep.gob.mx/multimedia/images/202008/IMG-MD-INTE-VG6lqMPi49-Preescolar.png",
+        "grado": "Preescolar"
+    },
+    {
+        "imagenhorario": "https://aprendeencasa.sep.gob.mx/multimedia/images/202008/IMG-MD-INTE-T263EOXPXi-1primaria22.png",
+        "grado": "1º Primaria"
+    },
+    {
+        "imagenhorario": "https://aprendeencasa.sep.gob.mx/multimedia/images/202008/IMG-MD-INTE-pQYXhRqhhs-2primaria22.png",
+        "grado": "2º Primaria"
+    },
+    {
+        "imagenhorario": "https://aprendeencasa.sep.gob.mx/multimedia/images/202008/IMG-MD-INTE-EoRaqVc2wJ-3primaria22.png",
+        "grado": "3º Primaria"
+    },
+    {
+        "imagenhorario": "https://aprendeencasa.sep.gob.mx/multimedia/images/202008/IMG-MD-INTE-kJ43DYefM6-4primaria22.png",
+        "grado": "4º Primaria"
+    },
+    {
+        "imagenhorario": "https://aprendeencasa.sep.gob.mx/multimedia/images/202008/IMG-MD-INTE-oMLrEhshxL-5primaria22.png",
+        "grado": "5º Primaria"
+    },
+    {
+        "imagenhorario": "https://aprendeencasa.sep.gob.mx/multimedia/images/202008/IMG-MD-INTE-xt2gvARulo-6primaria22.png",
+        "grado": "6º Primaria"
+    },
+    {
+        "imagenhorario": "https://aprendeencasa.sep.gob.mx/multimedia/images/202008/IMG-MD-INTE-4D29sxvq8c-1secundaria22.png",
+        "grado": "1º Secundaria"
+    },
+    {
+        "imagenhorario": "https://aprendeencasa.sep.gob.mx/multimedia/images/202008/IMG-MD-INTE-JYo83ISAw7-2secundaria22.png",
+        "grado": "2º Secundaria"
+    },
+    {
+        "imagenhorario": "https://aprendeencasa.sep.gob.mx/multimedia/images/202008/IMG-MD-INTE-q1lHWUqA9T-3secundaria22.png",
+        "grado": "3º Secundaria"
+    },
+    {
+        "imagenhorario": "http://jovenesencasa.educacionmediasuperior.sep.gob.mx/wp-content/uploads/2020/08/Cadena4.jpg",
+        "grado": "Bachillerato"
+    }
+]
